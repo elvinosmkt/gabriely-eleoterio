@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "name": "gabriely-eleoterio",
+  "alias": ["gabriely.blendagency.com.br"],
+  "routes": [
+    {
+      "src": "/(.*)",
+      "dest": "/index.html"
+    }
+  ]
+}
